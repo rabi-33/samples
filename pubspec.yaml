@@ -1,4 +1,6 @@
 name: samples
+resolution: workspace
+publish_to: 'none'
 description: A collection of samples for Dart and Flutter.
 
 environment:
